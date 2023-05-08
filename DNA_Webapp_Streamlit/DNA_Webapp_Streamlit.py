@@ -4,6 +4,7 @@ import altair as alt
 from PIL import Image #img
 
 
+
 image=Image.open('logo.jpeg')
 st.image(image,use_column_width=True)
 st.write("""
