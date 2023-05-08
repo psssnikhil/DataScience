@@ -1,7 +1,7 @@
 import pandas as pd 
 import streamlit as st ##for ui
 import altair as alt
-from PIL import Image ##for image 
+from PIL import Image 
 
 
 image=Image.open('logo.jpeg')
